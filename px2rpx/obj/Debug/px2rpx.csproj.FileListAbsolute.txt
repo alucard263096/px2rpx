@@ -1,0 +1,9 @@
+c:\users\steve\documents\visual studio 2017\Projects\px2rpx\px2rpx\bin\Debug\px2rpx.exe.config
+c:\users\steve\documents\visual studio 2017\Projects\px2rpx\px2rpx\bin\Debug\px2rpx.exe
+c:\users\steve\documents\visual studio 2017\Projects\px2rpx\px2rpx\bin\Debug\px2rpx.pdb
+c:\users\steve\documents\visual studio 2017\Projects\px2rpx\px2rpx\obj\Debug\px2rpx.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2017\Projects\px2rpx\px2rpx\obj\Debug\px2rpx.Form1.resources
+c:\users\steve\documents\visual studio 2017\Projects\px2rpx\px2rpx\obj\Debug\px2rpx.Properties.Resources.resources
+c:\users\steve\documents\visual studio 2017\Projects\px2rpx\px2rpx\obj\Debug\px2rpx.csproj.GenerateResource.Cache
+c:\users\steve\documents\visual studio 2017\Projects\px2rpx\px2rpx\obj\Debug\px2rpx.exe
+c:\users\steve\documents\visual studio 2017\Projects\px2rpx\px2rpx\obj\Debug\px2rpx.pdb
